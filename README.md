@@ -490,13 +490,13 @@ CONTACT US PAGE HTML CODE :
 ## OUTPUT:
 
 ### Home page:
-![output](./output1.png)![output 1](https://user-images.githubusercontent.com/93427240/146681546-26c7ea75-8994-44ea-8aa5-a03b36f19b34.png)
+![output 1](https://user-images.githubusercontent.com/93427240/146681546-26c7ea75-8994-44ea-8aa5-a03b36f19b34.png)
 
-![output](./output2.png)![output 2](https://user-images.githubusercontent.com/93427240/146681553-0f898060-0284-4dd5-94be-aca36da32c65.png)
+![output 2](https://user-images.githubusercontent.com/93427240/146681553-0f898060-0284-4dd5-94be-aca36da32c65.png)
 
-![output](./output3.png)![output 3](https://user-images.githubusercontent.com/93427240/146681558-331c067d-a818-47ba-9345-26923c65e0ca.png)
+![output 3](https://user-images.githubusercontent.com/93427240/146681558-331c067d-a818-47ba-9345-26923c65e0ca.png)
 
-![output](./output4.png)![output 4](https://user-images.githubusercontent.com/93427240/146681564-f38101c1-b21a-46fb-869b-6caf6bf4565d.png)
+![output 4](https://user-images.githubusercontent.com/93427240/146681564-f38101c1-b21a-46fb-869b-6caf6bf4565d.png)
 
 
 ## Result:
